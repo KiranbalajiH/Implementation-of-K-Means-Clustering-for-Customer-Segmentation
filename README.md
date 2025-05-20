@@ -21,7 +21,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 ## Program:
 Program to implement the K Means Clustering for Customer Segmentation.
 
-Developed by: Kiranbalaji H
+Developed by: KIRANBALAJI H
 
 RegisterNumber: 212223040096
 ```python
@@ -74,21 +74,28 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
-![alt text](Image-1.png)
+![image](https://github.com/user-attachments/assets/46019971-457b-407b-a4e0-a3576ed95203)
 
-![alt text](Image-2.png)
 
-![alt text](Image-3.png)
+![image](https://github.com/user-attachments/assets/35d0ade2-1053-4a45-91b4-169f8b917378)
 
-![alt text](Image-4.png)
 
-![alt text](Image-5.png)
+![image](https://github.com/user-attachments/assets/23bfe2a6-5265-4802-96a7-86d3cf87e8ce)
 
-![alt text](Image-6.png)
 
-![alt text](Image-7.png)
+![image](https://github.com/user-attachments/assets/c0f2011a-edce-44be-81c7-8c4fa91fcb3c)
 
-![alt text](Image-8.png)
+
+![image](https://github.com/user-attachments/assets/0ac6803d-0599-49b3-b297-77b062fa2058)
+
+![image](https://github.com/user-attachments/assets/b3ec9303-a858-4bb3-8a9c-f3d08917ef6c)
+
+
+![image](https://github.com/user-attachments/assets/622d6e01-3f95-4bad-858b-a0202c952e15)
+
+
+![image](https://github.com/user-attachments/assets/82a38809-75ff-4b3d-860a-a91322e45642)
+
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
